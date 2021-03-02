@@ -1,0 +1,2 @@
+https://www.programiz.com/python-programming/exception-handling
+https://stackoverflow.com/questions/55592384/beautifulsoup-replace-line-breaks-with-period-and-space

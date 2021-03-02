@@ -36,5 +36,3 @@ then test with examply.py
 ```bash
 pylint exmaple.py
 ```
-
-
