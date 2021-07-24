@@ -2,7 +2,6 @@
 
 ## Intro
 
-We are building a Digital Library. the goal of assignment2.0 is to gather data and store it properly.
 
 # part1 Web Scraping
 
